@@ -10,5 +10,5 @@ wheels/
 .venv
 
 
-#generated files
+#generated audiobook files
 */file_storage
